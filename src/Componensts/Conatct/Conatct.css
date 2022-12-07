@@ -1,0 +1,60 @@
+.contact {
+    padding: 0rem 3rem 5rem 3rem;
+    display: flex;
+    height: 85vh;
+    margin-top: 4rem;
+    align-items: center;
+}
+.t-right {
+    position: relative;
+    flex: 1 1;
+    justify-content: right;
+    display: flex;
+}
+.t-right form {
+    width: 46%;
+    /* height: 70%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    margin-right: 12rem;
+}
+.t-right form >input{
+    width: 100%;
+    border: none;
+    height: 20px;
+    box-shadow: var(--box-shdow);
+    border-radius: 10px;
+    border:  solid 2px orange;
+    padding: 10px;
+}
+.t-right form >textarea{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    height: 37px;
+    box-shadow: var(--box-shdow);
+    border-radius: 10px;
+    border:  solid 2px orange;
+    height: 100px;
+}
+@media screen and (max-width:480px) {
+
+    .contact{
+        flex-direction: column;
+        height: 52rem;
+        padding: 0;
+    }
+    .t-right form {
+       width: 100%;
+        margin-right: 0rem;
+    }
+    .t-right form {
+        width: 100%;
+        margin-right: 0rem;
+        margin-top: 3rem;
+        justify-content: flex-start;
+    }
+}

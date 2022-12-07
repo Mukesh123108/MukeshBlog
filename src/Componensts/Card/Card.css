@@ -1,0 +1,76 @@
+.card{
+    width: 10rem;
+    height: 13rem;
+    display: flex;
+    position: absolute;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255,255,255,26%);
+    border: 7px solid var(--orangecard);
+    box-shadow: var(--box-shdow);
+    border-radius: 20px;
+    padding: 10px 26px 10px 26px;
+}
+.card span:nth-of-type(2){
+    font-size: 16px;
+    color: #333;
+}
+.card>img{
+    margin: -1rem;
+    transform: scale(0.6);
+}
+.c-card{
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 19px 60px rgb(0 0 0 / 25%);
+    border-radius: 7px;
+    border: none;
+    color: skyblue;
+    font-size: 16px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.cards{
+    position: relative;
+    margin-left: 10rem;
+}
+.cards>*{
+    position: absolute;
+}
+.card img {
+    width: 126px;
+}
+
+.blure{
+    position: absolute;
+    width: 22rem;
+    height: 14rem;
+    border-radius: 50%;
+    background: #fff;
+    filter: blur(212px);
+    top: 14%;
+    left: 56%;
+    filter: blur(72px);
+    z-index: -1;
+
+}
+.skyblue{
+    left: 14rem;
+    top: 8rem;
+}
+.cpurpele{
+    left: -33rem;
+    top: 13rem;
+}
+@media screen and (max-width:480px) {
+   .cards{
+    margin-left: 0;
+   }
+   .card {
+    
+    width: 80%;
+   
+}
+}
