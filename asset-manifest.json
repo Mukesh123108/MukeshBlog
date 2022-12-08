@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/myprofile/static/css/main.5826f809.css",
-    "main.js": "/myprofile/static/js/main.1dc574e8.js",
-    "static/js/787.8f0865bc.chunk.js": "/myprofile/static/js/787.8f0865bc.chunk.js",
-    "static/media/m1.jpg": "/myprofile/static/media/m1.0142a1aef8353b895000.jpg",
-    "static/media/m2.jpg": "/myprofile/static/media/m2.ba54184c08ad5493c40d.jpg",
-    "static/media/m4.jpg": "/myprofile/static/media/m4.e0283ef3cc5bd91036be.jpg",
-    "static/media/face.png": "/myprofile/static/media/face.88259c2d1966a7045e79.png",
-    "static/media/shopy.png": "/myprofile/static/media/shopy.7924ecc2555f155761ba.png",
-    "static/media/m3.png": "/myprofile/static/media/m3.5c66d5b2874d9e58b077.png",
-    "static/media/m5.png": "/myprofile/static/media/m5.38c056d96c33d7120021.png",
-    "static/media/png.png": "/myprofile/static/media/png.9ca49fadae02c090f411.png",
-    "static/media/amzone.png": "/myprofile/static/media/amzone.ad00d5b268301c0bd425.png",
-    "static/media/user.png": "/myprofile/static/media/user.a6143582309785dca610.png",
-    "static/media/cool.png": "/myprofile/static/media/cool.9d059904e5ab64b3f556.png",
-    "index.html": "/myprofile/index.html",
-    "main.5826f809.css.map": "/myprofile/static/css/main.5826f809.css.map",
-    "main.1dc574e8.js.map": "/myprofile/static/js/main.1dc574e8.js.map",
-    "787.8f0865bc.chunk.js.map": "/myprofile/static/js/787.8f0865bc.chunk.js.map"
+    "main.css": "/mukeshProfile/static/css/main.5826f809.css",
+    "main.js": "/mukeshProfile/static/js/main.bf550391.js",
+    "static/js/787.8f0865bc.chunk.js": "/mukeshProfile/static/js/787.8f0865bc.chunk.js",
+    "static/media/m1.jpg": "/mukeshProfile/static/media/m1.0142a1aef8353b895000.jpg",
+    "static/media/m2.jpg": "/mukeshProfile/static/media/m2.ba54184c08ad5493c40d.jpg",
+    "static/media/m4.jpg": "/mukeshProfile/static/media/m4.e0283ef3cc5bd91036be.jpg",
+    "static/media/face.png": "/mukeshProfile/static/media/face.88259c2d1966a7045e79.png",
+    "static/media/shopy.png": "/mukeshProfile/static/media/shopy.7924ecc2555f155761ba.png",
+    "static/media/m3.png": "/mukeshProfile/static/media/m3.5c66d5b2874d9e58b077.png",
+    "static/media/m5.png": "/mukeshProfile/static/media/m5.38c056d96c33d7120021.png",
+    "static/media/png.png": "/mukeshProfile/static/media/png.9ca49fadae02c090f411.png",
+    "static/media/amzone.png": "/mukeshProfile/static/media/amzone.ad00d5b268301c0bd425.png",
+    "static/media/user.png": "/mukeshProfile/static/media/user.a6143582309785dca610.png",
+    "static/media/cool.png": "/mukeshProfile/static/media/cool.9d059904e5ab64b3f556.png",
+    "index.html": "/mukeshProfile/index.html",
+    "main.5826f809.css.map": "/mukeshProfile/static/css/main.5826f809.css.map",
+    "main.bf550391.js.map": "/mukeshProfile/static/js/main.bf550391.js.map",
+    "787.8f0865bc.chunk.js.map": "/mukeshProfile/static/js/787.8f0865bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5826f809.css",
-    "static/js/main.1dc574e8.js"
+    "static/js/main.bf550391.js"
   ]
 }
